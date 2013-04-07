@@ -1,6 +1,6 @@
 # Preboot 2 for Sass
 
-`preboot-sass` is an Sass-powered version of [Mark Otto's Preboot 2](http://github.com/mdo/preboot), ready to drop right into your Sass powered applications.
+`preboot-sass` is an Sass-powered version of [Mark Otto's Preboot](http://github.com/mdo/preboot), ready to drop right into your Sass powered applications.
 
 Preboot is a set of variables and mixins that were used as the precursor to Bootstrap. To read more about what mixins are included, visit [http://getpreboot.com](http://getpreboot.com/).
 
@@ -19,7 +19,10 @@ gem 'preboot-sass', '~> 0.1.0'
 
 #### CSS
 
-Preboot is separated into 3 Sass files. `preboot` holds all of the mixins and variables. `normalize` is from git.io/noramlize version 2.1.0. `pygments` is a theme for the Pygments, code hightlighting.
+Preboot is separated into 3 Sass files. 
+`preboot` holds all of the mixins and variables. 
+`normalize` is from [git.io/normalize](http://git.io/normalize) version 2.1.0. 
+`pygments` is a theme for Pygments, the code highlighting library.
 
 ```css
 @import "preboot";
