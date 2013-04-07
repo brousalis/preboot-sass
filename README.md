@@ -2,6 +2,8 @@
 
 `preboot-sass` is an Sass-powered version of [Mark Otto's Preboot 2](http://github.com/mdo/preboot), ready to drop right into your Sass powered applications.
 
+Preboot is a set of variables and mixins that were used as the precursor to Bootstrap. To read more about what mixins are included, visit [http://getpreboot.com](http://getpreboot.com/).
+
 ## Usage
 
 ### Rails
